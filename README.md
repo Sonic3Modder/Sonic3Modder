@@ -1,154 +1,86 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20I'm%20Barrett%20-%20Sonic!&fontAlign=50&fontAlignY=38&color=0:00C9FF,100:92FE9D&fontColor=ffffff&animation=fadeIn" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0F52BA&height=200&section=header&text=Barrett%20Becker&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Dev%20by%20day%20%7C%20Rewrite%20by%20night&descAlignY=60" width="100%"/>
+
+<h3>👋 Hey, I'm Barrett — 13 y/o developer who loves building Discord bots</h3>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Building+Discord+bots;Learning+Go+and+Python;Sonic+%2F+Sonic.exe+fan;Say+hi+on+Discord+or+Steam!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">
-Software Developer • Discord Bots • UI Development
-</h1>
-
-<p align="center">
-Building fast, clean, and modern software with Go & Python.
-</p>
-
----
-
-## 👋 About Me
-
-I'm a developer who enjoys creating software that people actually use.
-
-My main interests include:
-
-- 🤖 Discord Bots
-- 🖥️ Desktop Applications
-- 🎨 Modern UI/UX
-- ⚡ Backend Development
-- 🎮 Game Tooling & Modding
-- 🔧 Automation
-
-Outside of programming you'll usually find me training Brazilian Jiu-Jitsu, experimenting with new technologies, or working on another side project.
-
----
-
-## 🚀 Current Focus
-
-- 💬 Building advanced Discord applications
-- 🖥️ Learning modern desktop UI frameworks
-- ⚡ Writing high-performance software in Go
-- 📦 Designing reusable libraries and APIs
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=go,python,sqlite,git,github,docker,linux,windows,vscode"/>
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 EnderBot
-
-An advanced Discord bot focused on moderation, automation, and community management.
-
-**Built with**
-
-- Python
-- Hikari
-- Arc
-- SQLite
-
----
-
-### 🎮 Discord Rich Presence SDK
-
-A toolkit for creating custom Rich Presence integrations for games.
-
----
-
-### 🖥️ Desktop Utilities
-
-Modern desktop applications built with performance and usability in mind.
-
----
-
-## 📚 Currently Learning
-
-```text
-Go Concurrency
-Backend Architecture
-Modern UI Design
-API Development
-```
-
----
-
-## 📫 Connect
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-GitHub
+<!-- THE SWITCH BUTTON -->
+<a href="https://github.com/Sonic3Modder/Sonic3Modder/blob/main/GAMING.md">
+  <img src="https://img.shields.io/badge/🎮_Switch_to-Gaming_Profile-1E90FF?style=for-the-badge&labelColor=0F0F0F" />
 </a>
 
-•
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+## 💻 Work / Dev
 
-<i>"Clean code. Clean UI. Clean architecture."</i>
+<table width="100%">
+<tr>
+<td valign="top" width="60%">
 
+**What I do:**
+- 🐧 Comfortable in **Linux**
+- 🐳 Learning **Docker**
+- 🪟 Also work in **Windows**
+- 🐍 Write **Python**
+- 🐹 Learning **Golang**
+- 🤖 I love building **Discord bots**
+
+</td>
+<td valign="top" width="40%">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,windows,python,go,discord" />
+
+</td>
+</tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sonic3Modder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic3Modder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonic3Modder&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonic3Modder&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+<!-- Snake animation: appears automatically once the "Generate Snake Animation" workflow runs once -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonic3Modder/Sonic3Modder/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+<!--START_SECTION:waka-->
+<!-- This section fills in automatically once the WakaTime workflow below runs -->
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Sonic3Modder/Sonic3Modder/blob/main/GAMING.md">
+  <img src="https://img.shields.io/badge/🎮_Switch_to-Gaming_Profile-1E90FF?style=for-the-badge&labelColor=0F0F0F" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F52BA,100:1E90FF&height=100&section=footer" width="100%"/>
+
+</div>
