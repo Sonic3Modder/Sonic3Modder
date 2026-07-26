@@ -22,8 +22,8 @@
 - 💬 Find me on **Discord** and **Steam**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-sonikki-guy-12-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-Rewrite-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Sonikki-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steam-RewriteSonicVR-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
 
 <p align="center">
