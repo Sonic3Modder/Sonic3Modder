@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20I'm%20Barrett / Sonic!&fontAlign=50&fontAlignY=38&color=0:00C9FF,100:92FE9D&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20I'm%20Barrett%20-%20Sonic!&fontAlign=50&fontAlignY=38&color=0:00C9FF,100:92FE9D&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">
