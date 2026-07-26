@@ -34,7 +34,7 @@
      your name > Copy User ID)
 -->
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/YOUR_DISCORD_ID?theme=dark&bg=0f0f0f&animated=true" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/1066064950663065631?theme=dark&bg=0f0f0f&animated=true" />
 </p>
 
 <!--
@@ -42,7 +42,7 @@
   (found at the end of your Steam profile URL).
 -->
 <p align="center">
-  <img src="https://steamcardexchange.net/badge/YOUR_STEAM_ID" alt="Steam"/>
+  <img src="https://steamcardexchange.net/badge/76561199472125917" alt="Steam"/>
 </p>
 
 <div align="center">
