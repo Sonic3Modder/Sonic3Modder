@@ -46,8 +46,31 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
+
+### 🤖 Discord Bot Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/hikari-3B3B3B?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/lightbulb-FFC93C?style=for-the-badge&logo=lightning&logoColor=black" />
+  <img src="https://img.shields.io/badge/disgo-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+- 🐍 **hikari** + **lightbulb** — my main combo for slash commands
+- 🐹 **disgo** — when I'm building bots in Go
+- 🐍 **discord.py** — still reach for it sometimes
+
+### 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Sonic3Modder/jordan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonic3Modder&repo=jordan&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center"><sub><b>jordan</b> — a custom prefix-command handler for hikari</sub></p>
+
 
 ### 📊 GitHub Stats
 
